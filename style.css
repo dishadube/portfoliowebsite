@@ -470,7 +470,7 @@ img{
     }
     .navlist{
         background: var(--white);
-        position: absolute;
+        position: fixed;
         flex-direction: column;
         top: 10%;
         right: 0;
